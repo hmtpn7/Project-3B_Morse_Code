@@ -1,0 +1,39 @@
+﻿  Source.cpp
+c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(103): warning C4018: '<': signed/unsigned mismatch
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(93): note: while compiling class template member function 'std::string Binary_Search_Tree<std::string>::decode(std::string)'
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\source.cpp(91): note: see reference to function template instantiation 'std::string Binary_Search_Tree<std::string>::decode(std::string)' being compiled
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\source.cpp(29): note: see reference to class template instantiation 'Binary_Search_Tree<std::string>' being compiled
+c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(124): warning C4018: '<=': signed/unsigned mismatch
+c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(141): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(138): note: while compiling class template member function 'std::string Binary_Search_Tree<std::string>::encode(std::string)'
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\source.cpp(90): note: see reference to function template instantiation 'std::string Binary_Search_Tree<std::string>::encode(std::string)' being compiled
+c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_tree.h(266): warning C4018: '>': signed/unsigned mismatch
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_tree.h(263): note: while compiling class template member function 'Binary_Tree<Item_Type> Binary_Tree<Item_Type>::read_binary_tree(std::vector<std::string,std::allocator<_Ty>> &,int &,int &)'
+          with
+          [
+              Item_Type=std::string,
+              _Ty=std::string
+          ]
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_tree.h(250): note: see reference to function template instantiation 'Binary_Tree<Item_Type> Binary_Tree<Item_Type>::read_binary_tree(std::vector<std::string,std::allocator<_Ty>> &,int &,int &)' being compiled
+          with
+          [
+              Item_Type=std::string,
+              _Ty=std::string
+          ]
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_tree.h(180): note: while compiling class template member function 'Binary_Tree<Item_Type> Binary_Tree<Item_Type>::get_left_subtree(void) const'
+          with
+          [
+              Item_Type=std::string
+          ]
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_tree.h(106): note: see reference to function template instantiation 'Binary_Tree<Item_Type> Binary_Tree<Item_Type>::get_left_subtree(void) const' being compiled
+          with
+          [
+              Item_Type=std::string
+          ]
+  c:\users\xinha\desktop\project3b_cs303\project3b_cs303\binary_search_tree.h(9): note: see reference to class template instantiation 'Binary_Tree<Item_Type>' being compiled
+          with
+          [
+              Item_Type=std::string
+          ]
+  project3B_cs303.vcxproj -> C:\Users\xinha\Desktop\project3B_cs303\Debug\project3B_cs303.exe
+  project3B_cs303.vcxproj -> C:\Users\xinha\Desktop\project3B_cs303\Debug\project3B_cs303.pdb (Full PDB)
